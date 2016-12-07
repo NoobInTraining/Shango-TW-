@@ -9,5 +9,8 @@ To clone this reposirtory do
  - git init
  - git remote add origin https://github.com/NoobInTraining/Shango-TW-.git
  - git pull origin master
+ 
+You should now have all files in you "dota 2 beta" Folder.  
+Don't forget to add modify the ".gitignore" file to your needs.  
   
 Now you can run Dota 2 and select Workshop tools to edit the map.
