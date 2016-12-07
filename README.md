@@ -8,6 +8,6 @@ To clone this reposirtory do
  - Paste the following commands
  - git init
  - git remote add origin https://github.com/NoobInTraining/Shango-TW-.git
- - git pull origin
+ - git pull origin master
   
 Now you can run Dota 2 and select Workshop tools to edit the map.
