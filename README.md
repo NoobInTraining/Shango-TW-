@@ -1,6 +1,6 @@
 # Shango-TW-
 
-Rebuilding the ShangoTW mod, (Version 6.9) from Warcraft III  
+Rebuilding the ShangoTW mod, (Version 6.9. https://www.epicwar.com/maps/175933/) from Warcraft III  
 Project is still in a very alpha stage.
 
 To clone this reposirtory do 
