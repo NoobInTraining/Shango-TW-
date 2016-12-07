@@ -5,6 +5,9 @@ Project is still in a very alpha stage.
 
 To clone this reposirtory do 
  - Open gitbash in "\Steam\SteamApps\common\dota 2 beta"
- - Paste command "git clone https://github.com/NoobInTraining/Shango-TW-.git ."
+ - Paste the following commands
+ - git init
+ - git remote add origin https://github.com/NoobInTraining/Shango-TW-.git
+ - git pull origin
   
 Now you can run Dota 2 and select Workshop tools to edit the map.
